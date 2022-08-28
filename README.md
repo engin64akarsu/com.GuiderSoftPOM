@@ -1,4 +1,4 @@
-# com.GuiderSoftPOM CucumberFrameWork ilk githup
+# com.GuiderSoftPOM ilk deneme githup
 adım engin akgül
 sivaslı da doğdum
 
